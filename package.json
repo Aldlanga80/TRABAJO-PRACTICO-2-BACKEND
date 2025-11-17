@@ -1,0 +1,26 @@
+{
+  "name": "trabajo-practico-2",
+  "version": "1.0.0",
+  "description": "Trabajo Practico Evaluativo N°2 BackEnd",
+  "keywords": [
+    "typescript",
+    "ts-node-dev",
+    "developer-backend",
+    "node"
+  ],
+  "homepage": "https://github.com/Aldlanga80/TRABAJO-PRACTICO-2-BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/Aldlanga80/TRABAJO-PRACTICO-2-BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldlanga80/TRABAJO-PRACTICO-2-BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "Aldo Langa",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
